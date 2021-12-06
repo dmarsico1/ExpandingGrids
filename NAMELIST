@@ -1,0 +1,14 @@
+&model
+  N_grids=6
+  N_vert=20
+  ref_levels = 20,10,10,10,10,10,0
+  N_scalars=5
+  N_x=10
+  hx=1600
+  hz=1600
+  rat=2
+  Tend=36000.0
+  dt=8.0
+  write_freq=64.0
+file_name = 'test'
+/
